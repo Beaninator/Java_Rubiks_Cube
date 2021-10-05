@@ -20,10 +20,8 @@ A virtual Rubik's cube written in java with multiple functions to manipulate a r
 8. **printCube()** - Prints cube with each face labeled to console
                       
 9. **scramble( int scrams )** - Randomly makes int scrams amount of random moves to the cube.
-                               
-10. **copyCube( Cube copy )** - Writes copy to given cube cell by cell
                                  
-11. **interpretMove( String move )** - String move (move abbreviation to be completed) executes
+10. **interpretMove( String move )** - String move (move abbreviation to be completed) executes
                                        move abbreviation.
 
 # How the cube is ordered
