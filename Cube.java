@@ -474,9 +474,4 @@ public class Cube
       face.get(row).add(column.get(row));
     }
   }
-
-  public void copyCube(ArrayList<ArrayList<ArrayList<String>>> copyCube)
-  {
-    
-  }
 }
