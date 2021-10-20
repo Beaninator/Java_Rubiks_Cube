@@ -474,9 +474,4 @@ public class Cube
       face.get(row).add(column.get(row));
     }
   }
-  public static void main (String args[])
-  {
-    cube newcube = new cube();
-
-  }
 }
